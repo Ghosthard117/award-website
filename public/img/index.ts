@@ -1,6 +1,7 @@
 export * as AboutImage from './about.webp'
 export * as Contact1 from './contact-1.webp'
 export * as Contact2 from './contact-2.webp'
+export * as Entrance from './entrance.webp'
 export * as Gallery1 from './gallery-1.webp'
 export * as Gallery2 from './gallery-2.webp'
 export * as Gallery3 from './gallery-3.webp'
