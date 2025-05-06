@@ -4,6 +4,7 @@ import Features from "@/components/Features"
 import Navbar from "@/components/Navbar"
 import Story from "@/components/Story"
 import Contact from "@/components/Contact"
+import Footer from "@/components/Footer"
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
       <Features />
       <Story />
       <Contact />
+      <Footer />
     </main>
   )
 }
