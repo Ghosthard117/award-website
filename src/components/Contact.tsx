@@ -9,7 +9,7 @@ type ImageClipBoxProps = {
 
 const ImageClipBox: FC<ImageClipBoxProps> = ({ src, clipClass }) => (
   <div className={clipClass}>
-    <img src={src} alt="" />
+    <img src={src} alt='image-contact' loading='lazy' />
   </div>
 );
 

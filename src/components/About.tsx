@@ -57,6 +57,7 @@ const About = () => {
             src={AboutImage}
             alt='background image'
             className='absolute left-0 top-0 size-full object-cover'
+            loading='lazy'
           // width={100}
           // height={100}
           />

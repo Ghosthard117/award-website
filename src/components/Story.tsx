@@ -75,6 +75,7 @@ const Story = () => {
                   src={Entrance}
                   alt='entrance.webp'
                   className='object-contain'
+                  loading='lazy'
                 />
               </div>
             </div>
